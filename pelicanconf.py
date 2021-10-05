@@ -4,6 +4,7 @@
 AUTHOR = 'ismaeel'
 SITENAME = 'a site'
 SITEURL = ''
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
